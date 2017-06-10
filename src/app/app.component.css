@@ -1,0 +1,8 @@
+app-list{
+    display:block;
+    float:left;
+}
+app-show{
+    display:block;
+    float:right;
+}
